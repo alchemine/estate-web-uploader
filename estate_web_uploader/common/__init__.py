@@ -2,7 +2,7 @@
 
 Examples
 --------
->>> from base_project.common import *
+>>> from estate_web_uploader.common import *
 """
 
 from .depth_logging import *

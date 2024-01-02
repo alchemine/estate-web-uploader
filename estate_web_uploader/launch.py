@@ -1,4 +1,4 @@
-from base_project._utils import *
+from estate_web_uploader._utils import *
 
 
 @D

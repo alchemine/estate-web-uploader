@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "base-project"
+name = "estate-web-uploader"
 version = "0.1.0"
 description = ""
 authors = ["alchemine <djyoon0223@gmail.com>"]

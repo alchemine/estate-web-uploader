@@ -3,7 +3,7 @@
 Commonly used functions and classes are here.
 """
 
-from base_project.common.env import *
+from estate_web_uploader.common.env import *
 
 
 # Short function

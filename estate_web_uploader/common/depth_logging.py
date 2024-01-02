@@ -3,7 +3,7 @@
 Log depth of code.
 """
 
-from base_project.common.timer import *
+from estate_web_uploader.common.timer import *
 
 
 class DepthManager(contextlib.ContextDecorator):
